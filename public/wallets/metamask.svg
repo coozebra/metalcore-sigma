@@ -1,0 +1,44 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 66 63" width="66" height="63">
+	<title>metamask-svg</title>
+	<style>
+		.s0 { fill: #e17726 } 
+		.s1 { fill: #e27625 } 
+		.s2 { fill: #d5bfb2 } 
+		.s3 { fill: #233447 } 
+		.s4 { fill: #cc6228 } 
+		.s5 { fill: #e27525 } 
+		.s6 { fill: #f5841f } 
+		.s7 { fill: #c0ac9d } 
+		.s8 { fill: #161616 } 
+		.s9 { fill: #763e1a } 
+	</style>
+	<path id="Layer" class="s0" d="m62.8 0.9l-25.9 19.1 4.8-11.2z"/>
+	<path id="Layer" class="s1" d="m24.3 8.8l4.5 11.4-25.5-19.3z"/>
+	<path id="Layer" class="s1" d="m65.5 45.5l-4.2 14.3-14.7-4 6.9-10.5z"/>
+	<path id="Layer" class="s1" d="m12.6 45.3l6.8 10.5-14.7 4-4.2-14.3z"/>
+	<path id="Layer" class="s1" d="m28.5 18.7l0.6 15.7-14.6-0.7 4.1-6.2z"/>
+	<path id="Layer" class="s1" d="m51.5 33.7l-14.6 0.7 0.4-15.9 10.1 9z"/>
+	<path id="Layer" class="s1" d="m20.6 45.6l7.6 5.9-8.8 4.3z"/>
+	<path id="Layer" class="s1" d="m45.4 45.6l1.2 10.2-8.8-4.3z"/>
+	<path id="Layer" class="s2" d="m38.4 59.6l0.1-2.4-0.7-5.7 8.8 4.3z"/>
+	<path id="Layer" class="s2" d="m28.2 51.5l-0.7 5.7 0.1 2.4-8.2-3.8z"/>
+	<path id="Layer" class="s3" d="m27.7 41.8l-7.3-2.1 5.2-2.4z"/>
+	<path id="Layer" class="s3" d="m38.3 41.8l2.1-4.5 5.2 2.4z"/>
+	<path id="Layer" class="s4" d="m12.6 45.5l8.1-0.2-1.3 10.5z"/>
+	<path id="Layer" class="s4" d="m53.5 45.5l-6.9 10.3-1.3-10.5z"/>
+	<path id="Layer" class="s4" d="m45.6 39.7l-5.2-2.4-2.1 4.5-1.4-7.4 14.6-0.7z"/>
+	<path id="Layer" class="s4" d="m14.5 33.7l14.6 0.7-1.4 7.4-2.1-4.5-5.2 2.4z"/>
+	<path id="Layer" class="s5" d="m20.4 39.7l0.2 5.9-6.1-11.9z"/>
+	<path id="Layer" class="s5" d="m51.5 33.7l-6.1 11.9 0.2-5.9z"/>
+	<path id="Layer" class="s5" d="m29.8 39l-0.4 11.7-1.7-8.9 1.4-7.4z"/>
+	<path id="Layer" class="s5" d="m38.3 41.8l-1.7 8.9-0.3-11.7 0.6-4.6z"/>
+	<path id="Layer" class="s6" d="m45.6 39.7l-0.2 5.9-7.6 5.9-1.2-0.8 1.7-8.9z"/>
+	<path id="Layer" class="s6" d="m27.7 41.8l1.7 8.9-1.2 0.8-7.6-5.9-0.2-5.9z"/>
+	<path id="Layer" class="s7" d="m46.6 55.8l-2.8 2.3-5.8 4h-10l-5.8-4-2.8-2.3 8.2 3.8-0.1-2.4 0.6-0.5h9.8l0.6 0.5-0.1 2.4z"/>
+	<path id="Layer" class="s8" d="m38.5 57.2l-0.6-0.5h-9.8l-0.6 0.5 0.7-5.7 1.2-0.8h7.2l1.2 0.8z"/>
+	<path id="Layer" class="s9" d="m65.2 22.3l-2.1 1.6 1.6 1.3-2.1 1.8 1.3 1-3 3.5-13.5-4-9.6-8.1 25-18.5 3.2 9.8-2.2 10.6z"/>
+	<path id="Layer" class="s9" d="m3.3 0.9l24.9 18.5-9.6 8.1-13.5 4-3-3.5 1.3-1-2.1-1.8 1.6-1.3-2.1-1.6 1.4-1-2.2-10.6z"/>
+	<path id="Layer" class="s6" d="m65.5 45.5h-12l-8.1 0.1 6.1-11.9-4.1-6.2 13.5 4z"/>
+	<path id="Layer" class="s6" d="m14.5 33.7l6.1 11.9-8-0.1h-12.1l4.6-14 13.5-4z"/>
+	<path id="Layer" class="s6" d="m36.6 39.1v11.6h-7.2v-11.6l-0.3-4.7-0.9-15-3.9-10.6h17.4l-3.9 10.6-0.9 15z"/>
+</svg>

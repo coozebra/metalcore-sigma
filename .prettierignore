@@ -1,0 +1,7 @@
+.github
+.next
+dist
+node_modules
+out
+public
+src/contracts

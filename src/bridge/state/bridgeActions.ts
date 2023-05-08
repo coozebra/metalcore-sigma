@@ -1,0 +1,41 @@
+/**
+ * ****************************************
+ * Action Types
+ * ****************************************
+ */
+export const bridgeActions = {
+  burnConfirmed: 'burnConfirmed',
+  burnError: 'burnError',
+  burnRequest: 'burnRequest',
+  burnSuccess: 'burnSuccess',
+  dismissDepositModal: 'dismissDepositModal',
+  dismissWithdrawModal: 'dismissWithdrawModal',
+  displayDepositModal: 'displayDepositModal',
+  displayWithdrawModal: 'displayWithdrawModal',
+  mintableError: 'mintableError',
+  mintableRequest: 'mintableRequest',
+  mintableSuccess: 'withdrawableSuccess',
+  mintConfirmed: 'mintConfirmed',
+  mintError: 'mintError',
+  mintRequest: 'mintRequest',
+  mintSuccess: 'mintSuccess',
+  operatorInfoError: 'operatorInfoError',
+  operatorInfoRequest: 'operatorInfoRequest',
+  operatorInfoSuccess: 'operatorInfoSuccess',
+  operatorSignatureError: 'operatorSignatureError',
+  operatorSignatureRequest: 'operatorSignatureRequest',
+  operatorSignatureSuccess: 'operatorSignatureSuccess',
+  setTransactionConfirmationBlocks: 'setTransactionConfirmationBlocks',
+  transferConfirmed: 'transferConfirmed',
+  transferError: 'transferError',
+  transferRequest: 'transferRequest',
+  transferSuccess: 'transferSuccess',
+  withdrawableError: 'withdrawableError',
+  withdrawableRequest: 'withdrawableRequest',
+  withdrawableSuccess: 'withdrawableSuccess',
+  withdrawableTxHash: 'withdrawableTxHash',
+  withdrawConfirmed: 'withdrawConfirmed',
+  withdrawError: 'withdrawError',
+  withdrawRequest: 'withdrawRequest',
+  withdrawSuccess: 'withdrawSuccess',
+};

@@ -1,0 +1,13 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 23" width="20" height="23">
+	<title>Progress-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.s0 { fill: #FE6C65 }
+	</style>
+	<path id="Layer" class="s0" d="m18 0h2l-10 17h-2l10-17z" />
+	<path id="Shape 1" class="s0" d="m-4.79 23.24l-3.93-3.1l21.63-27.44l3.93 3.1l-21.63 27.44z" />
+	<path id="Shape 2" class="s0" d="m-0.17 24.6l-4.29-2.56l16.88-28.31l4.29 2.56l-16.88 28.31z" />
+	<path id="Shape 3" class="s0" d="m-4.78 23.58l-4.32-2.52l16.94-29.06l4.32 2.52l-16.94 29.06z" />
+	<path id="Shape 4" class="s0" d="m-10.4 23.61l-4.2-2.71l18.69-29l4.2 2.71l-18.69 29z" />
+	<path id="Layer" class="s0" d="m17 15h1l-5 8h-1l5-8z" />
+</svg>

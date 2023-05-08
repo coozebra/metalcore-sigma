@@ -1,0 +1,33 @@
+{
+  "description": "To be revealed.",
+  "external_url": "/nfts/1",
+  "image": "gallery/nft-question-card.png",
+  "name": "To be revealed.",
+  "token_id": "1",
+  "attributes": [
+    {
+      "trait_type": "armor",
+      "value": "tbd"
+    },
+    {
+      "trait_type": "attack",
+      "value": "tbd"
+    },
+    {
+      "trait_type": "hp",
+      "value": "tbd"
+    },
+    {
+      "trait_type": "speed",
+      "value": "tbd"
+    },
+    {
+      "trait_type": "type",
+      "value": "tbd"
+    },
+    {
+      "trait_type": "weight_class",
+      "value": "tbd"
+    }
+  ]
+}
